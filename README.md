@@ -4,6 +4,8 @@
 
 **Download:** see [Releases](../../releases). Get `GranasSabre-0.1-beta.zip`, not the source code archive.
 
+> **Antivirus warnings:** 5 of 71 scanners on VirusTotal flag the exe (DeepInstinct, Elastic, SecureAge, Skyhigh, Zillya). These are heuristic/machine-learning engines. Microsoft Defender, Kaspersky, ESET, Bitdefender, Avast, Malwarebytes and the other major ones report it as clean. This is a known issue with tools packed by PyInstaller: the exe unpacks a Python interpreter at startup, which some engines treat as suspicious. The complete source code is included, and you can run `GranasSabre.py` with Python 3.8+ instead of the exe. Your call. [VirusTotal report](https://www.virustotal.com/gui/file/17f08df32f6e07aa35dee4f8c012bab52afef6acc30cdd08f223ce458f1af746)
+
 *Deutsch weiter unten.*
 
 > **Beta – testers with the Steam version wanted!**
